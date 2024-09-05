@@ -1,0 +1,26 @@
+.box{
+    margin: 10rem auto;
+    width: 30rem;
+    border: 1px solid gray;
+    padding: 2rem;
+    height: 20rem;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+#color-btn{
+    padding: 2rem;
+    width: 60%;
+    font-weight: bolder;
+    font-size: 24px;
+    margin: 5rem 0;
+    background-color: lightgray;
+    border:none;
+    cursor: pointer;
+}
+
+body{
+    background-color: #ADD8E6;
+}
+
