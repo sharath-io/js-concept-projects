@@ -22,5 +22,6 @@
 
 body{
     background-color: #ADD8E6;
+    transition: background-color 1s
 }
 
