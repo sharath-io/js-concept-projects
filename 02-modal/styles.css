@@ -1,0 +1,46 @@
+body{
+    background-image: url('background.jpg');
+}
+
+#open-modal{
+    padding: 1rem;
+    color: white;
+    background-color: green;
+    border:none;
+    cursor: pointer;
+}
+
+
+.modal{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right:0;
+    height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.modal-overlay{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right:0;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+.modal-content{
+    position: relative;
+    background-color: white;
+    cursor: pointer;
+    padding: 4rem;
+}
+
+.modal.open{
+    display: flex
+}
