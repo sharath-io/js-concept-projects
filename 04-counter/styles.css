@@ -1,0 +1,20 @@
+.counter-box{
+    text-align: center;
+}
+
+h1{
+    margin: 2rem 0;
+    font-size: 50px;
+}
+
+button{
+    padding: 2rem;
+    margin: 2rem;
+    background-color: rgb(122, 119, 225);
+    border: none;
+    width: 6rem;
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+    cursor: pointer;
+}
