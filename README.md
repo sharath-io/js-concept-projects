@@ -43,3 +43,9 @@
         modalElement.classList.remove('open');
     });
 
+
+## 03-color-flipper
+* generated hex string using Math.floor & Math.random
+* updating DOM element styling
+
+
