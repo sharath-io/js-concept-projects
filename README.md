@@ -49,3 +49,7 @@
 * updating DOM element styling
 
 
+## 04-counter
+* updating counter on button click
+* updating counter through conditions 
+
